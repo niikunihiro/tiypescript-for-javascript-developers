@@ -1,0 +1,5 @@
+# top-most EditorConfig file
+root = true
+
+[*.ts]
+insert_final_newline = true
